@@ -1,16 +1,22 @@
-# fournilo
+# 🛡️ FOURNILO MVP
 
-A new Flutter project.
+**Fournilo** is not a feature.  
+It’s a shield for bakers operating in chaos — offline, under pressure, before sunrise.
 
-## Getting Started
+This MVP is built to respond directly to field reports from Sipho and others.  
+Every screen, every widget, every line of code is a tactical answer.
 
-This project is a starting point for a Flutter application.
+## 🎯 Mission
+Build a 100% offline Android app for informal bakers to:
+- Track orders
+- Confirm pickups
+- Monitor payments
+- Survive the morning rush
 
-A few resources to get you started if this is your first Flutter project:
+## ⚔️ Dev Mentality
+We don’t code like tourists.  
+We code like operators.  
+Every file is a weapon. Every commit is a trace.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🗂️ Structure
+See `lib/routes/route_plan.dart` for the 7-day build strategy.
